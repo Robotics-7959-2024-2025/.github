@@ -1,7 +1,7 @@
 
 ## Hello!
 
-# Welcome to the CHS Robotics 2024-2025 Github page for team 4102!
+# Welcome to the CHS Robotics 2024-2025 Github page 
 
 Feel free to click repositories and take a look at our code!
 
